@@ -1,0 +1,2 @@
+# OCRApp
+Basic OCR 
